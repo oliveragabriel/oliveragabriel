@@ -2,9 +2,8 @@
 
 ### 🎯 Sobre Mim
 
-- 💻 **Desenvolvedor Full Stack** apaixonado por criar soluções completas e escaláveis.
+- 💻 **Desenvolvedor Full Stack**.
 - 🌍 Atualmente trabalho na empresa **Geomais Geotecnologia**.
-- 🚀 **Iniciei minha jornada no desenvolvimento** no **segundo semestre de 2021**.
 
 ### 📞 Contato
 
@@ -44,5 +43,3 @@ Sinta-se à vontade para entrar em contato:
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveragabriel&layout=compact&langs_count=7&theme=dark"/>
   </div>
 </div>
-
-######  - As estatísticas não refletem todas as atividades realizadas, pois ações em repositórios privados não são exibidas nas estatísticas públicas.
