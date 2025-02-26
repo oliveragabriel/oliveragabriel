@@ -1,9 +1,9 @@
 ## Bem-vindo ao meu perfil do GitHub! 👋
 
-### 🎯 Sobre Mim
+### 🎯 Sobre
 
 - 💻 **Desenvolvedor Full Stack**.
-- 🌍 Atualmente trabalho na empresa **Geomais Geotecnologia**.
+- 🌍 Empresa **Geomais Geotecnologia**.
 
 ### 📞 Contato
 
